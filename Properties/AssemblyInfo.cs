@@ -5,7 +5,7 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle(" ")]
-[assembly: AssemblyDescription("This programme is specificaly build to rename '.spe' files to use with IAEA's AXIL programme.")]
+[assembly: AssemblyDescription("This programme is specifically build to rename '.spe' files to use with IAEA's AXIL programme.")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("File Name Changer")]
