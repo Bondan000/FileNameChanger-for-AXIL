@@ -1,12 +1,11 @@
 ﻿using System.Reflection;
-using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle(" ")]
-[assembly: AssemblyDescription("This programm is specificaly build to rename '.spe' files to use with IAEA's AXIL programm.")]
+[assembly: AssemblyDescription("This programme is specificaly build to rename '.spe' files to use with IAEA's AXIL programme.")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("File Name Changer")]
